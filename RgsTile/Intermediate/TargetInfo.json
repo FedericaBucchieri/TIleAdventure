@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RgsTile",
+			"Path": "..\\Source\\RgsTile.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RgsTileEditor",
+			"Path": "..\\Source\\RgsTileEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

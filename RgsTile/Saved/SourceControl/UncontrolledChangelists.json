@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/TileGameModeBP.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Levels/TileLevel.umap",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/Behaviours/BP_TileColorBehaviour.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/GameInterface.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/EndScreen.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/Behaviours/BP_TileFoundableBehaviour.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/BP_NormalTile.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/Behaviours/BP_TileRevealBehaviour.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/BP_SpecialTile.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/BP_SilverTile.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/BP_BlueTile.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/Behaviours/BP_SilverTileColorBehaviour.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/Behaviours/BP_GreenTileColorBehaviour.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/Behaviours/BP_RedTileColorBehaviour.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/Behaviours/BP_BlueTileColorBehaviour.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/BP_GreenTile.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/BP_RedTile.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/BP_ColoredTile.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/Behaviours/BP_TileFeedbackBehaviour.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/BP_BlueTile.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/BP_TileBase.uasset",
+				"C:/Users/Feder/OneDrive/Desktop/RgsTile/Content/Blueprints/Tiles/BP_GreenTile.uasset"
+			]
+		}
+	]
+}

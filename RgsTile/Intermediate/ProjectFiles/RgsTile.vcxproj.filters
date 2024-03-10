@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RgsTile.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RgsTile.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RgsTileEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RgsTile">
+      <UniqueIdentifier>{94A523B0-72BD-3912-8663-63C429330D00}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RgsTile\RgsTile.Build.cs">
+      <Filter>Source\RgsTile</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RgsTile\RgsTile.cpp">
+      <Filter>Source\RgsTile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RgsTile\RgsTile.h">
+      <Filter>Source\RgsTile</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RgsTile\RgsTileCharacter.cpp">
+      <Filter>Source\RgsTile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RgsTile\RgsTileCharacter.h">
+      <Filter>Source\RgsTile</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RgsTile\RgsTileGameMode.cpp">
+      <Filter>Source\RgsTile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RgsTile\RgsTileGameMode.h">
+      <Filter>Source\RgsTile</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RgsTile\Tile.cpp">
+      <Filter>Source\RgsTile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RgsTile\Tile.h">
+      <Filter>Source\RgsTile</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RgsTile\TileHUD.h">
+      <Filter>Source\RgsTile</Filter>
+    </ClInclude>
+    <Filter Include="Source\RgsTile\Private">
+      <UniqueIdentifier>{4AE23F2B-F43B-36F4-BAED-95EB18485CDA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\RgsTile\Private\Behaviors">
+      <UniqueIdentifier>{9DB702DC-FFBD-3412-AA1E-055EDDB965E6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RgsTile\Private\Behaviors\RgsRevealTileBehaviour.cpp">
+      <Filter>Source\RgsTile\Private\Behaviors</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RgsTile\Private\Behaviors\RgsTileBehaviour.cpp">
+      <Filter>Source\RgsTile\Private\Behaviors</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RgsTile\Private\Behaviors\RgsTileColorBehaviour.cpp">
+      <Filter>Source\RgsTile\Private\Behaviors</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RgsTile\Private\Behaviors\RgsTileFoundableBehaviour.cpp">
+      <Filter>Source\RgsTile\Private\Behaviors</Filter>
+    </ClCompile>
+    <Filter Include="Source\RgsTile\Public">
+      <UniqueIdentifier>{1A5B90F4-A8D2-3EEC-9D6D-3AA01827516D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\RgsTile\Public\Behaviors">
+      <UniqueIdentifier>{A0A81824-91B7-3576-8787-4ACCCFE60268}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RgsTile\Public\Behaviors\RgsRevealTileBehaviour.h">
+      <Filter>Source\RgsTile\Public\Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RgsTile\Public\Behaviors\RgsTileBehaviour.h">
+      <Filter>Source\RgsTile\Public\Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RgsTile\Public\Behaviors\RgsTileColorBehaviour.h">
+      <Filter>Source\RgsTile\Public\Behaviors</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RgsTile\Public\Behaviors\RgsTileFoundableBehaviour.h">
+      <Filter>Source\RgsTile\Public\Behaviors</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
