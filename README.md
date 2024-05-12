@@ -1,4 +1,5 @@
 # Tile Adventure
+![Screenshot of the game.](Screenshot)
 Tiles Adventure is a personal project centered around gameplay programming using Unreal Engine 5 and C++. The project embodies a paradigm of component-based programming, ensuring modularity and extensibility of the codebase. Adhering to the principles of clean code, I structured the implementation to be easily understandable and maintainable. Crucially, I designed a customizable interface empowering game designers to autonomously iterate on gameplay mechanics. This project not only showcases technical proficiency but also underscores a commitment to fostering collaborative game development environments.
 
 ## Game overview
